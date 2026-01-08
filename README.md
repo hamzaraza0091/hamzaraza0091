@@ -16,7 +16,7 @@ I aim to create impactful solutions
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza.raza.123)[![linkedin](https://www.linkedin.com/in/muhammad-hamza-raza-644499356?] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaraza0091@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza.raza.123)[![linkedin](https://www.linkedin.com/in/muhammad-hamza-raza-644499356?)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaraza0091@gmail.com) 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamzaraza0091&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hamzaraza0091&theme=dark&hide_border=false)<br/>
