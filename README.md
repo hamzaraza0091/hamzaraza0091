@@ -16,19 +16,3 @@ I am Muhammad Hamza Raza i am a Developer driven by the intersection of Artifici
 [![](https://komarev.com/ghpvc/?username=hamzaraza0091&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-your-repo/
-│
-├── README.md
-│
-└── assets/
-    ├── dark.svg
-    └── light.svg
-    <p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Animated Banner" src="assets/light.svg">
-</picture>
-
-</p>
