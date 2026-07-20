@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img src="assets/light.svg" alt="Animated Banner">
+  </picture>
+</p>
+
 # 💫 About Me:
 I am Muhammad Hamza Raza i am a Developer driven by the intersection of Artificial Intelligence and Interactive Environments. With a strong foundation in Python and a growing expertise in Unity Game Development, I focus on building software that is both intelligent and engaging.<br><br>What I’m Working On:<br>AI & Machine Learning: Developing RAG pipelines and exploring Agentic AI to create autonomous systems.<br>Game Development: Utilizing Unity and C# to build interactive experiences, focusing on clean logic and smooth gameplay mechanics.<br>Data Engineering: Leveraging Python (Pandas/NumPy) for data profiling and cleaning to ensure high-quality inputs for ML models.<br><br>Technical Toolkit:<br>Languages: Python, C#<br>AI/ML: LLMs, RAG, AI Agents.<br>Game Dev: Unity Engine, C# Scripting, Game Logic
 
