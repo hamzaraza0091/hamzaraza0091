@@ -6,7 +6,45 @@
   </picture>
 </p>
 
-💫 About Me: I am Muhammad Hamza Raza i am a Developer driven by the intersection of Artificial Intelligence and Interactive Environments. With a strong foundation in Python and a growing expertise in Unity Game Development, I focus on building software that is both intelligent and engaging.<br><br>What I’m Working On:<br>AI & Machine Learning: Developing RAG pipelines and exploring Agentic AI to create autonomous systems.<br>Game Development: Utilizing Unity and C# to build interactive experiences, focusing on clean logic and smooth gameplay mechanics.<br>Data Engineering: Leveraging Python (Pandas/NumPy/Metplotlib) for data profiling and cleaning to ensure high-quality inputs for ML models.<br><br>Technical Toolkit:<br>Languages: Python, C#<br>AI/ML: LLMs, RAG, AI Agents.<br>Game Dev: Unity Engine, C# Scripting, Game Logic
+💫 About Me:
+I’m an AI Developer focused on building intelligent, production-oriented systems using Generative AI, RAG, Agentic AI, and Machine Learning.
+
+I’m particularly interested in building AI applications that go beyond simple LLM calls — systems that can retrieve relevant knowledge, reason through tasks, interact with tools, and execute multi-step workflows.
+
+What I’m Working On
+
+Generative AI & Agentic Systems
+
+- Building RAG pipelines for knowledge-grounded AI applications
+- Exploring Agentic AI and multi-agent architectures
+- Working with LLMs, embeddings, vector databases, and retrieval pipelines
+- Developing AI systems with frameworks such as LangChain and LangGraph
+
+Machine Learning & Deep Learning
+
+- Developing ML/DL solutions for real-world datasets and applications
+- Working with CNN/LSTM architectures and model experimentation
+- Using Python, PyTorch/TensorFlow, Pandas, NumPy, and Matplotlib for data and ML workflows
+
+Backend & AI Application Development
+
+- Building APIs and AI backends using FastAPI and Flask
+- Integrating AI models, retrieval systems, databases, and application logic
+- Working toward production-ready AI applications rather than isolated notebooks
+
+Technical Toolkit
+
+Languages: Python, C#
+AI/ML: LLMs, RAG, Agentic AI, Machine Learning, Deep Learning
+AI Frameworks: LangChain, LangGraph
+Backend: FastAPI, Flask
+Data & Visualization: Pandas, NumPy, Matplotlib, SQL
+Vector/Database: ChromaDB, PostgreSQL
+Frontend: React, Next.js, TypeScript
+
+I’m currently looking for opportunities where I can contribute as an AI Engineer, AI Developer, Generative AI Engineer, or ML Engineer and work on real-world AI products alongside experienced engineering teams.
+
+I’m especially interested in teams building AI agents, RAG systems, intelligent automation, and production-grade machine learning applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hamza.raza.123?igsh=MXBmbGs3MDE5aXh1dA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hamza-raza-644499356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaraza0091@gmail.com)
